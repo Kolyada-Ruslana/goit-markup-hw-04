@@ -425,6 +425,11 @@ footer .footer-paragraph {
 .socials-list {
     display: flex;
     justify-content: center;
+    gap: 24px;
+}
+
+.footer-socials-list {
+    display: flex;
     gap: 16px;
 }
 
